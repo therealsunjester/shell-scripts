@@ -1,0 +1,6 @@
+# Nmap 7.94SVN scan initiated Fri Sep 20 06:43:38 2024 as: nmap -p80 --open -T5 -oG 200 -iR 200
+Host: 166.152.64.108 (108.sub-166-152-64.myvzw.com)	Status: Up
+Host: 166.152.64.108 (108.sub-166-152-64.myvzw.com)	Ports: 80/open/tcp//http///
+Host: 139.59.84.188 (soketi.hyperzod.dev)	Status: Up
+Host: 139.59.84.188 (soketi.hyperzod.dev)	Ports: 80/open/tcp//http///
+# Nmap done at Fri Sep 20 06:43:49 2024 -- 200 IP addresses (9 hosts up) scanned in 11.47 seconds
